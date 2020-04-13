@@ -1,11 +1,11 @@
 public class Forum {
-    private String s;
+    private String strung;
 
-    public String getS() {
-        return s;
+    public String getStrung() {
+        return strung;
     }
 
-    public void setS(String s) {
-        this.s = s;
+    public void setStrung(String strung) {
+        this.strung = strung;
     }
 }
