@@ -4,4 +4,3 @@ some text
 - third item
 
 - 5
-- 6
