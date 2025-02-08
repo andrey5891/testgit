@@ -2,7 +2,7 @@ public class Forum {
     private String strung;
 
     public String getStrung() {
-        return "b";
+        return "d";
     }
 
     public void setStrung(String strung) {
