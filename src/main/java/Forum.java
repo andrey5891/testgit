@@ -6,6 +6,6 @@ public class Forum {
     }
 
     public void setStrung(String strung) {
-        this.strung = "false";
+        this.strung = "r";
     }
 }
