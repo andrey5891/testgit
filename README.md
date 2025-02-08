@@ -3,5 +3,3 @@ some text
 ## list
 - first item
 
-- third item
-- fourth item
